@@ -4,9 +4,13 @@
 
 Body:
 {
+
+
     "name":"test1",
     "email": "test1@vail.com",
     "password": "aA@11jkndkjnsdf"
+
+    
     
 }
 
@@ -37,10 +41,15 @@ After this in every api header app jwt token ('token':'dmlk')
 
 
 
-Body:{
+Body:
+{
+
+
     "title":"firsadst blog",
     "content":"firasdsasdsadst blog first blog",
     "author":"6586f475ddcefc20e5c9c4f4"
+
+    
 }
 
 
